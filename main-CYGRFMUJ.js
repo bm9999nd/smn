@@ -1,0 +1,1 @@
+import{I as t,J as p,K as r,L as e,N as i}from"./chunk-Y4G64RRB.js";var m=[{path:"",loadComponent:()=>import("./chunk-E3R664UR.js").then(o=>o.KasComponent)}];var n={providers:[e(m),t(p())]};r(i,n).catch(o=>console.error(o));
